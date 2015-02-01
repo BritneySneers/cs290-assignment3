@@ -1,0 +1,12 @@
+#search_form{
+float:left;
+}
+
+#favorite_list{
+	border: solid thin;
+	height: 1.5em;
+	width: 3.5em;
+	text-align: left;
+	font-style: italic;
+	float: right;
+}
