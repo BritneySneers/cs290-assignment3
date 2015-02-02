@@ -1,0 +1,12 @@
+Start:Sun, 1 Feb 2015 20:32:18 -0800
+End: Sun, 1 Feb 2015 23:31:39 -0800
+Tasks:finished what I can.  I apologize for the quality of this work; it is without doubt the worst work I've submitted in this program and does not I believe reflect on my merits
+Start:  Sun, 1 Feb 2015 11:03:53 -0800
+End: Sun, 1 Feb 2015 20:32:18 -0800
+Tasks:added alternate versions of gist.js; still encountering numerous errors, however, and will not be able to produce a working program by deadline most likely
+Start: Sat, 1 Feb 2015 00:15
+End: Sun, 1 Feb 2015 11:03:53 -0800
+Tasks:committing initial unfinished coding; easily 12 hours' work so far and did not sleep.  Very difficult assignment.
+Start:Wed, 21 Jan 2015 (apologies - I did not git commit until Saturday of this week, kept bouncing between my laptop storage and server without committing, though I should also mention that my 'school weeks' tend to go friday night-sunday night as I work 65-75 hours most m-f and don't have much time for school on those days)
+End: Sat, 31 Jan 2015 23:07:28 -0800
+Tasks:six hours' total spent coding initial draft of assignment 3, part one, including use of external instructional videos to increase understanding
