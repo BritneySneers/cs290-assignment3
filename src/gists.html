@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <title>Gist App</title>
-  <script src='gist.js'></script>
+  <script src='gist3.js'></script>
   <link rel="stylesheet" href="gist.css">
 </head>
 <body>
@@ -11,7 +11,7 @@
     <h1>Gist API Results</h1>
     <div>
       <input type="number" id="pages" min=1 max=5 value=1>
-      <label>Number of Pages to Display (Max: 5 pages)</label>
+      <label>Number of Pages to Display, up to 5 pages)</label>
     </div>
     <div>
       <label>Filter by: </label><br>
@@ -25,15 +25,16 @@
       <label>Python</label>
     </div>
     <div>
-    <input type="submit" value="Search" onclick="requeryResults();">
+    <input type="submit" value="Search" onclick="getTheGist();">
     </div>
-
-    <ol id="gists">
-    </ol> 	
+	<div id="gist_results">
+	<h1>Gist Results</h1>
+    <ul id="gistEntries">
+    </ul> 	
 	</div>
   <div id="favorite_list">
     <h1>Favorite Gists: </h1>
-    <ul id="favorites">
+    <ul id="HTMLfavorites">
     </ul>   
   </div>
 </body>
